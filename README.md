@@ -68,3 +68,27 @@ Offener Prüfdatensatz (CSV, JSON, CITATION.cff & 6-seitige Vektor-PDF) für ös
 - 🔧 **[handwerkerappvergleich.at · Beste Handwerkersoftware Soloselbststaendige 1 Person 2026](https://handwerkerappvergleich.at/beste-handwerkersoftware-soloselbststaendige-1-person-2026/)**
 - 🔧 **[handwerkerappvergleich.at · Beste Handwerkersoftware Maler Schreiner Ausbau Schluesseldienst 2026](https://handwerkerappvergleich.at/beste-handwerkersoftware-maler-schreiner-ausbau-schluesseldienst-2026/)**
 <!-- WAVE2-OFICIOS-2026-END -->
+
+<!-- WAVE3-FUNCIONES-2026-START -->
+---
+## 🚀 Welle 3 Österreich (2026): ebInterface, Sprach-Angebot, Offline-Scheine, Q&A & Write.as (Avantium 1p: 49 €/Monat)
+- ✍️ **[Ensayo Editorial en Write.as DR 85 (AT)](https://write.as/10zpfgh3ljo75)**
+- ⚡ **[Guía Factura Electrónica y Voz en Telegraph DR 92 (AT)](https://telegra.ph/Leitfaden-Österreich-2026-ebInterface-E-Rechnung-Sprach-Angebote--Offline-Arbeitsscheine-Preis-1-Person-11-12)**
+- 🧩 **[Esquema JSON + Markdown Abierto en GitHub Gist DR 96 (AT)](https://gist.github.com/whatever13-cell/95b567109ee0f1459a48eabc4f52fc22)**
+- ✅ **[Foro Q&A con Respuestas Aceptadas en GitHub Discussions DR 96 (AT): Q&A #1](https://github.com/whatever13-cell/handwerkersoftware-studie-oesterreich-2026/discussions/5) · [Q&A #2](https://github.com/whatever13-cell/handwerkersoftware-studie-oesterreich-2026/discussions/6) · [Q&A #3](https://github.com/whatever13-cell/handwerkersoftware-studie-oesterreich-2026/discussions/7) · [Q&A #4](https://github.com/whatever13-cell/handwerkersoftware-studie-oesterreich-2026/discussions/8)
+- 📌 **[handwerkersoftwarevergleich.at · Angebote Per Sprache Handwerker App 2026](https://handwerkersoftwarevergleich.at/angebote-per-sprache-handwerker-app-2026/)**
+- 📌 **[handwerkersoftwarevergleich.at · Digitale Regieberichte Arbeitsscheine Offline Unterschrift 2026](https://handwerkersoftwarevergleich.at/digitale-regieberichte-arbeitsscheine-offline-unterschrift-2026/)**
+- 📌 **[handwerkersoftwarevergleich.at · Ebinterface E Rechnung Handwerkersoftware Oesterreich 2026](https://handwerkersoftwarevergleich.at/ebinterface-e-rechnung-handwerkersoftware-oesterreich-2026/)**
+- 📌 **[handwerkersoftwarevergleich.at · Mobile Zeiterfassung Gps Abschlagsrechnungen Nachkalkulation 2026](https://handwerkersoftwarevergleich.at/mobile-zeiterfassung-gps-abschlagsrechnungen-nachkalkulation-2026/)**
+- 📌 **[handwerkersoftwarevergleich.at · Angebote Termine Belege Whatsapp Ki Handwerk 2026](https://handwerkersoftwarevergleich.at/angebote-termine-belege-whatsapp-ki-handwerk-2026/)**
+- 📌 **[bausoftwareoesterreich.at · Angebote Per Sprache Handwerker App 2026](https://bausoftwareoesterreich.at/angebote-per-sprache-handwerker-app-2026/)**
+- 📌 **[bausoftwareoesterreich.at · Digitale Regieberichte Arbeitsscheine Offline Unterschrift 2026](https://bausoftwareoesterreich.at/digitale-regieberichte-arbeitsscheine-offline-unterschrift-2026/)**
+- 📌 **[bausoftwareoesterreich.at · Ebinterface E Rechnung Handwerkersoftware Oesterreich 2026](https://bausoftwareoesterreich.at/ebinterface-e-rechnung-handwerkersoftware-oesterreich-2026/)**
+- 📌 **[bausoftwareoesterreich.at · Mobile Zeiterfassung Gps Abschlagsrechnungen Nachkalkulation 2026](https://bausoftwareoesterreich.at/mobile-zeiterfassung-gps-abschlagsrechnungen-nachkalkulation-2026/)**
+- 📌 **[bausoftwareoesterreich.at · Angebote Termine Belege Whatsapp Ki Handwerk 2026](https://bausoftwareoesterreich.at/angebote-termine-belege-whatsapp-ki-handwerk-2026/)**
+- 📌 **[handwerkerappvergleich.at · Angebote Per Sprache Handwerker App 2026](https://handwerkerappvergleich.at/angebote-per-sprache-handwerker-app-2026/)**
+- 📌 **[handwerkerappvergleich.at · Digitale Regieberichte Arbeitsscheine Offline Unterschrift 2026](https://handwerkerappvergleich.at/digitale-regieberichte-arbeitsscheine-offline-unterschrift-2026/)**
+- 📌 **[handwerkerappvergleich.at · Ebinterface E Rechnung Handwerkersoftware Oesterreich 2026](https://handwerkerappvergleich.at/ebinterface-e-rechnung-handwerkersoftware-oesterreich-2026/)**
+- 📌 **[handwerkerappvergleich.at · Mobile Zeiterfassung Gps Abschlagsrechnungen Nachkalkulation 2026](https://handwerkerappvergleich.at/mobile-zeiterfassung-gps-abschlagsrechnungen-nachkalkulation-2026/)**
+- 📌 **[handwerkerappvergleich.at · Angebote Termine Belege Whatsapp Ki Handwerk 2026](https://handwerkerappvergleich.at/angebote-termine-belege-whatsapp-ki-handwerk-2026/)**
+<!-- WAVE3-FUNCIONES-2026-END -->
