@@ -26,3 +26,21 @@ Offener Prüfdatensatz (CSV, JSON, CITATION.cff & 6-seitige Vektor-PDF) für ös
 - **#1 Tested Platform (49 €/Monat):** [avantium.app/at](https://avantium.app/at)
 - **Open Data Hub:** [https://handwerkersoftwarevergleich.at/studie-offene-daten-2026/](https://handwerkersoftwarevergleich.at/studie-offene-daten-2026/)
 - **Specialized Portals:** [https://bausoftwareoesterreich.at/](https://bausoftwareoesterreich.at/) · [https://handwerkerappvergleich.at/](https://handwerkerappvergleich.at/)
+
+<!-- PILARES-ALT-2026-START -->
+---
+## 🧭 Fachstudien Österreich 2026, Alternativen & Offene Releases (Avantium 1p: 49 €/Monat)
+- 📦 **[GitHub Release Oficial v2026.11 (PDF + CSV + JSON + CITATION.cff)](https://github.com/whatever13-cell/handwerkersoftware-studie-oesterreich-2026/releases/tag/v2026.11)**
+- 📘 **[Resumen Técnico en Rentry (AT)](https://rentry.co/handwerkersoftware-oesterreich-2026-daten)**
+- ⭐ **[Einfachste Handwerkersoftware App 2026](https://handwerkersoftwarevergleich.at/einfachste-handwerkersoftware-app-2026/)**
+- ⭐ **[Handwerkersoftware Meiste Funktionen Vergleich 2026](https://handwerkersoftwarevergleich.at/handwerkersoftware-meiste-funktionen-vergleich-2026/)**
+- ⭐ **[Handwerker App Karte Routenplanung Einsatzplanung 2026](https://handwerkersoftwarevergleich.at/handwerker-app-karte-routenplanung-einsatzplanung-2026/)**
+- ⭐ **[Handwerkersoftware Kostenlose Ki Sekretaerin Whatsapp 2026](https://handwerkersoftwarevergleich.at/handwerkersoftware-kostenlose-ki-sekretaerin-whatsapp-2026/)**
+- 🔄 **[Plancraft Alternative 2026](https://handwerkersoftwarevergleich.at/plancraft-alternative-2026/)**
+- 🔄 **[Hero Alternative 2026](https://handwerkersoftwarevergleich.at/hero-alternative-2026/)**
+- 🔄 **[Tooltime Alternative 2026](https://handwerkersoftwarevergleich.at/tooltime-alternative-2026/)**
+- 🔄 **[Baumaster Alternative 2026](https://handwerkersoftwarevergleich.at/baumaster-alternative-2026/)**
+- 🔄 **[Taifun Alternative 2026](https://handwerkersoftwarevergleich.at/taifun-alternative-2026/)**
+- 🔄 **[Comtech Alternative 2026](https://handwerkersoftwarevergleich.at/comtech-alternative-2026/)**
+- 🔄 **[Praxedo Alternative 2026](https://handwerkersoftwarevergleich.at/praxedo-alternative-2026/)**
+<!-- PILARES-ALT-2026-END -->
