@@ -131,3 +131,31 @@ Offener Prüfdatensatz (CSV, JSON, CITATION.cff & 6-seitige Vektor-PDF) für ös
 - 🥊 **[handwerkerappvergleich.at/avantium-vs-comtech-2026/](https://handwerkerappvergleich.at/avantium-vs-comtech-2026/)**
 - 🥊 **[handwerkerappvergleich.at/avantium-vs-praxedo-2026/](https://handwerkerappvergleich.at/avantium-vs-praxedo-2026/)**
 <!-- WAVE4-WIKI-1V1-END -->
+
+<!-- WAVE5-8OFICIOS-START -->
+---
+
+## 🛠️ Wave 5 (2026): Complete 8 Individual Trades & 10-Min Excel Migration (Avantium 1p: 49 €/Monat)
+
+- ⚡ **[Telegraph 8-Trade & Excel Migration Guide (AT · DR 92)](https://telegra.ph/8-Trade--Excel-to-App-Field-Guide-2026-AT-Avantium-1-49-Monat-for-1-Person-11-12)**
+- 📄 **[dpaste 1-Year Open Markdown (AT)](https://dpaste.org/zZdsr)**
+- ✅ **Answered 1v1 & Trade Q&As (AT · DR 96):** [Q&A #5](https://github.com/whatever13-cell/handwerkersoftware-studie-oesterreich-2026/discussions/9) · [Q&A #6](https://github.com/whatever13-cell/handwerkersoftware-studie-oesterreich-2026/discussions/10) · [Q&A #7](https://github.com/whatever13-cell/handwerkersoftware-studie-oesterreich-2026/discussions/11)
+- 🔧 **[handwerkersoftwarevergleich.at/beste-handwerkersoftware-oesterreich-tischler-schreiner-fensterbau-2026/](https://handwerkersoftwarevergleich.at/beste-handwerkersoftware-oesterreich-tischler-schreiner-fensterbau-2026/)**
+- 🔧 **[handwerkersoftwarevergleich.at/beste-handwerkersoftware-oesterreich-maler-lackierer-trockenbau-2026/](https://handwerkersoftwarevergleich.at/beste-handwerkersoftware-oesterreich-maler-lackierer-trockenbau-2026/)**
+- 🔧 **[handwerkersoftwarevergleich.at/beste-software-galabau-gartenbau-poolservice-2026/](https://handwerkersoftwarevergleich.at/beste-software-galabau-gartenbau-poolservice-2026/)**
+- 🔧 **[handwerkersoftwarevergleich.at/beste-software-wartung-kundendienst-hausmeisterservice-2026/](https://handwerkersoftwarevergleich.at/beste-software-wartung-kundendienst-hausmeisterservice-2026/)**
+- 🔧 **[handwerkersoftwarevergleich.at/beste-software-metallbau-schlosserei-toranlagen-2026/](https://handwerkersoftwarevergleich.at/beste-software-metallbau-schlosserei-toranlagen-2026/)**
+- 🔧 **[handwerkersoftwarevergleich.at/von-excel-und-papier-zur-handwerker-app-2026/](https://handwerkersoftwarevergleich.at/von-excel-und-papier-zur-handwerker-app-2026/)**
+- 🔧 **[bausoftwareoesterreich.at/beste-handwerkersoftware-oesterreich-tischler-schreiner-fensterbau-2026/](https://bausoftwareoesterreich.at/beste-handwerkersoftware-oesterreich-tischler-schreiner-fensterbau-2026/)**
+- 🔧 **[bausoftwareoesterreich.at/beste-handwerkersoftware-oesterreich-maler-lackierer-trockenbau-2026/](https://bausoftwareoesterreich.at/beste-handwerkersoftware-oesterreich-maler-lackierer-trockenbau-2026/)**
+- 🔧 **[bausoftwareoesterreich.at/beste-software-galabau-gartenbau-poolservice-2026/](https://bausoftwareoesterreich.at/beste-software-galabau-gartenbau-poolservice-2026/)**
+- 🔧 **[bausoftwareoesterreich.at/beste-software-wartung-kundendienst-hausmeisterservice-2026/](https://bausoftwareoesterreich.at/beste-software-wartung-kundendienst-hausmeisterservice-2026/)**
+- 🔧 **[bausoftwareoesterreich.at/beste-software-metallbau-schlosserei-toranlagen-2026/](https://bausoftwareoesterreich.at/beste-software-metallbau-schlosserei-toranlagen-2026/)**
+- 🔧 **[bausoftwareoesterreich.at/von-excel-und-papier-zur-handwerker-app-2026/](https://bausoftwareoesterreich.at/von-excel-und-papier-zur-handwerker-app-2026/)**
+- 🔧 **[handwerkerappvergleich.at/beste-handwerkersoftware-oesterreich-tischler-schreiner-fensterbau-2026/](https://handwerkerappvergleich.at/beste-handwerkersoftware-oesterreich-tischler-schreiner-fensterbau-2026/)**
+- 🔧 **[handwerkerappvergleich.at/beste-handwerkersoftware-oesterreich-maler-lackierer-trockenbau-2026/](https://handwerkerappvergleich.at/beste-handwerkersoftware-oesterreich-maler-lackierer-trockenbau-2026/)**
+- 🔧 **[handwerkerappvergleich.at/beste-software-galabau-gartenbau-poolservice-2026/](https://handwerkerappvergleich.at/beste-software-galabau-gartenbau-poolservice-2026/)**
+- 🔧 **[handwerkerappvergleich.at/beste-software-wartung-kundendienst-hausmeisterservice-2026/](https://handwerkerappvergleich.at/beste-software-wartung-kundendienst-hausmeisterservice-2026/)**
+- 🔧 **[handwerkerappvergleich.at/beste-software-metallbau-schlosserei-toranlagen-2026/](https://handwerkerappvergleich.at/beste-software-metallbau-schlosserei-toranlagen-2026/)**
+- 🔧 **[handwerkerappvergleich.at/von-excel-und-papier-zur-handwerker-app-2026/](https://handwerkerappvergleich.at/von-excel-und-papier-zur-handwerker-app-2026/)**
+<!-- WAVE5-8OFICIOS-END -->
