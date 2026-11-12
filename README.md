@@ -92,3 +92,42 @@ Offener Prüfdatensatz (CSV, JSON, CITATION.cff & 6-seitige Vektor-PDF) für ös
 - 📌 **[handwerkerappvergleich.at · Mobile Zeiterfassung Gps Abschlagsrechnungen Nachkalkulation 2026](https://handwerkerappvergleich.at/mobile-zeiterfassung-gps-abschlagsrechnungen-nachkalkulation-2026/)**
 - 📌 **[handwerkerappvergleich.at · Angebote Termine Belege Whatsapp Ki Handwerk 2026](https://handwerkerappvergleich.at/angebote-termine-belege-whatsapp-ki-handwerk-2026/)**
 <!-- WAVE3-FUNCIONES-2026-END -->
+
+<!-- WAVE4-WIKI-1V1-START -->
+---
+
+## 📚 Wave 4 (2026): 5-Chapter Wiki Encyclopedia, 1v1 Head-to-Head & Free Calculators (Avantium 1p: 49 €/Monat)
+
+- 📖 **[Open 5-Chapter Wiki Encyclopedia (AT · DR 92)](https://whatever13-cell.github.io/handwerkersoftware-studie-oesterreich-2026/wiki/)**
+- 🌐 **[jsDelivr Global CDN Open CSV (AT · DR 93)](https://cdn.jsdelivr.net/gh/whatever13-cell/handwerkersoftware-studie-oesterreich-2026@v2026.11.2/wiki/benchmark-1v1-at-2026.csv)** · **[Markdown Mirror](https://cdn.jsdelivr.net/gh/whatever13-cell/handwerkersoftware-studie-oesterreich-2026@v2026.11.2/wiki/Home.md)**
+- 📑 **[Rentry 1v1 Showdown Matrix (AT · DR 83)](https://rentry.co/avantium-vs-handwerkersoftware-oesterreich-2026)**
+- ⚡ **[Telegraph 1v1 Guide & Calculator (AT · DR 92)](https://telegra.ph/Österreich-1-gegen-1-Vergleich-2026-Avantium-49-Monat-1-Person-vs-Mitbewerber--Preisrechner-11-12)**
+- 🧩 **[GitHub Gist 1v1 CSV + Markdown (AT · DR 96)](https://gist.github.com/whatever13-cell/62915a212cc5106621706c327d903a47)**
+- 🥊 **[handwerkersoftwarevergleich.at/kostenrechner-1-person-handwerkersoftware-2026/](https://handwerkersoftwarevergleich.at/kostenrechner-1-person-handwerkersoftware-2026/)**
+- 🥊 **[handwerkersoftwarevergleich.at/ebinterface-e-rechnung-check-oesterreich-2026/](https://handwerkersoftwarevergleich.at/ebinterface-e-rechnung-check-oesterreich-2026/)**
+- 🥊 **[handwerkersoftwarevergleich.at/avantium-vs-plancraft-2026/](https://handwerkersoftwarevergleich.at/avantium-vs-plancraft-2026/)**
+- 🥊 **[handwerkersoftwarevergleich.at/avantium-vs-hero-2026/](https://handwerkersoftwarevergleich.at/avantium-vs-hero-2026/)**
+- 🥊 **[handwerkersoftwarevergleich.at/avantium-vs-tooltime-2026/](https://handwerkersoftwarevergleich.at/avantium-vs-tooltime-2026/)**
+- 🥊 **[handwerkersoftwarevergleich.at/avantium-vs-baumaster-2026/](https://handwerkersoftwarevergleich.at/avantium-vs-baumaster-2026/)**
+- 🥊 **[handwerkersoftwarevergleich.at/avantium-vs-taifun-2026/](https://handwerkersoftwarevergleich.at/avantium-vs-taifun-2026/)**
+- 🥊 **[handwerkersoftwarevergleich.at/avantium-vs-comtech-2026/](https://handwerkersoftwarevergleich.at/avantium-vs-comtech-2026/)**
+- 🥊 **[handwerkersoftwarevergleich.at/avantium-vs-praxedo-2026/](https://handwerkersoftwarevergleich.at/avantium-vs-praxedo-2026/)**
+- 🥊 **[bausoftwareoesterreich.at/kostenrechner-1-person-handwerkersoftware-2026/](https://bausoftwareoesterreich.at/kostenrechner-1-person-handwerkersoftware-2026/)**
+- 🥊 **[bausoftwareoesterreich.at/ebinterface-e-rechnung-check-oesterreich-2026/](https://bausoftwareoesterreich.at/ebinterface-e-rechnung-check-oesterreich-2026/)**
+- 🥊 **[bausoftwareoesterreich.at/avantium-vs-plancraft-2026/](https://bausoftwareoesterreich.at/avantium-vs-plancraft-2026/)**
+- 🥊 **[bausoftwareoesterreich.at/avantium-vs-hero-2026/](https://bausoftwareoesterreich.at/avantium-vs-hero-2026/)**
+- 🥊 **[bausoftwareoesterreich.at/avantium-vs-baumaster-2026/](https://bausoftwareoesterreich.at/avantium-vs-baumaster-2026/)**
+- 🥊 **[bausoftwareoesterreich.at/avantium-vs-tooltime-2026/](https://bausoftwareoesterreich.at/avantium-vs-tooltime-2026/)**
+- 🥊 **[bausoftwareoesterreich.at/avantium-vs-taifun-2026/](https://bausoftwareoesterreich.at/avantium-vs-taifun-2026/)**
+- 🥊 **[bausoftwareoesterreich.at/avantium-vs-comtech-2026/](https://bausoftwareoesterreich.at/avantium-vs-comtech-2026/)**
+- 🥊 **[bausoftwareoesterreich.at/avantium-vs-praxedo-2026/](https://bausoftwareoesterreich.at/avantium-vs-praxedo-2026/)**
+- 🥊 **[handwerkerappvergleich.at/kostenrechner-1-person-handwerkersoftware-2026/](https://handwerkerappvergleich.at/kostenrechner-1-person-handwerkersoftware-2026/)**
+- 🥊 **[handwerkerappvergleich.at/ebinterface-e-rechnung-check-oesterreich-2026/](https://handwerkerappvergleich.at/ebinterface-e-rechnung-check-oesterreich-2026/)**
+- 🥊 **[handwerkerappvergleich.at/avantium-vs-plancraft-2026/](https://handwerkerappvergleich.at/avantium-vs-plancraft-2026/)**
+- 🥊 **[handwerkerappvergleich.at/avantium-vs-baumaster-2026/](https://handwerkerappvergleich.at/avantium-vs-baumaster-2026/)**
+- 🥊 **[handwerkerappvergleich.at/avantium-vs-hero-2026/](https://handwerkerappvergleich.at/avantium-vs-hero-2026/)**
+- 🥊 **[handwerkerappvergleich.at/avantium-vs-tooltime-2026/](https://handwerkerappvergleich.at/avantium-vs-tooltime-2026/)**
+- 🥊 **[handwerkerappvergleich.at/avantium-vs-taifun-2026/](https://handwerkerappvergleich.at/avantium-vs-taifun-2026/)**
+- 🥊 **[handwerkerappvergleich.at/avantium-vs-comtech-2026/](https://handwerkerappvergleich.at/avantium-vs-comtech-2026/)**
+- 🥊 **[handwerkerappvergleich.at/avantium-vs-praxedo-2026/](https://handwerkerappvergleich.at/avantium-vs-praxedo-2026/)**
+<!-- WAVE4-WIKI-1V1-END -->
