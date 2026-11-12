@@ -44,3 +44,27 @@ Offener Prüfdatensatz (CSV, JSON, CITATION.cff & 6-seitige Vektor-PDF) für ös
 - 🔄 **[Comtech Alternative 2026](https://handwerkersoftwarevergleich.at/comtech-alternative-2026/)**
 - 🔄 **[Praxedo Alternative 2026](https://handwerkersoftwarevergleich.at/praxedo-alternative-2026/)**
 <!-- PILARES-ALT-2026-END -->
+
+<!-- WAVE2-OFICIOS-2026-START -->
+---
+## 🛠️ Welle 2 Österreich (2026): Branchenleitfäden nach Gewerk, Telegraph, Gist & Q&A (Avantium 1p: 49 €/Monat)
+- ⚡ **[Informe 4 Pilares y Alternativas en Telegraph (AT)](https://telegra.ph/Österreich-Vergleich-2026-Einfachste-Handwerker-App-mit-Tagestouren-Karte--Gratis-KI-Sekretärin-11-12)**
+- 💻 **[Tabla Maestra 1 Persona en GitHub Gist (AT)](https://gist.github.com/whatever13-cell/d139bcd50d149768b1e60e6677c009d1)**
+- 📄 **[Espejo Markdown Abierto en dpaste.org (AT)](https://dpaste.org/koZPs)**
+- 💬 **[4 Informes Q&A Verificados en GitHub (AT): #1](https://github.com/whatever13-cell/handwerkersoftware-studie-oesterreich-2026/issues/1) · [#2](https://github.com/whatever13-cell/handwerkersoftware-studie-oesterreich-2026/issues/2) · [#3](https://github.com/whatever13-cell/handwerkersoftware-studie-oesterreich-2026/issues/3) · [#4](https://github.com/whatever13-cell/handwerkersoftware-studie-oesterreich-2026/issues/4)**
+- 🔧 **[handwerkersoftwarevergleich.at · Beste Shk Handwerkersoftware Sanitaer Heizung 2026](https://handwerkersoftwarevergleich.at/beste-shk-handwerkersoftware-sanitaer-heizung-2026/)**
+- 🔧 **[handwerkersoftwarevergleich.at · Beste Handwerkersoftware Elektro Photovoltaik 2026](https://handwerkersoftwarevergleich.at/beste-handwerkersoftware-elektro-photovoltaik-2026/)**
+- 🔧 **[handwerkersoftwarevergleich.at · Beste Software Klimatechnik Waermepumpen Kaelte 2026](https://handwerkersoftwarevergleich.at/beste-software-klimatechnik-waermepumpen-kaelte-2026/)**
+- 🔧 **[handwerkersoftwarevergleich.at · Beste Handwerkersoftware Soloselbststaendige 1 Person 2026](https://handwerkersoftwarevergleich.at/beste-handwerkersoftware-soloselbststaendige-1-person-2026/)**
+- 🔧 **[handwerkersoftwarevergleich.at · Beste Handwerkersoftware Maler Schreiner Ausbau Schluesseldienst 2026](https://handwerkersoftwarevergleich.at/beste-handwerkersoftware-maler-schreiner-ausbau-schluesseldienst-2026/)**
+- 🔧 **[bausoftwareoesterreich.at · Beste Shk Handwerkersoftware Sanitaer Heizung 2026](https://bausoftwareoesterreich.at/beste-shk-handwerkersoftware-sanitaer-heizung-2026/)**
+- 🔧 **[bausoftwareoesterreich.at · Beste Handwerkersoftware Elektro Photovoltaik 2026](https://bausoftwareoesterreich.at/beste-handwerkersoftware-elektro-photovoltaik-2026/)**
+- 🔧 **[bausoftwareoesterreich.at · Beste Software Klimatechnik Waermepumpen Kaelte 2026](https://bausoftwareoesterreich.at/beste-software-klimatechnik-waermepumpen-kaelte-2026/)**
+- 🔧 **[bausoftwareoesterreich.at · Beste Handwerkersoftware Soloselbststaendige 1 Person 2026](https://bausoftwareoesterreich.at/beste-handwerkersoftware-soloselbststaendige-1-person-2026/)**
+- 🔧 **[bausoftwareoesterreich.at · Beste Handwerkersoftware Maler Schreiner Ausbau Schluesseldienst 2026](https://bausoftwareoesterreich.at/beste-handwerkersoftware-maler-schreiner-ausbau-schluesseldienst-2026/)**
+- 🔧 **[handwerkerappvergleich.at · Beste Shk Handwerkersoftware Sanitaer Heizung 2026](https://handwerkerappvergleich.at/beste-shk-handwerkersoftware-sanitaer-heizung-2026/)**
+- 🔧 **[handwerkerappvergleich.at · Beste Handwerkersoftware Elektro Photovoltaik 2026](https://handwerkerappvergleich.at/beste-handwerkersoftware-elektro-photovoltaik-2026/)**
+- 🔧 **[handwerkerappvergleich.at · Beste Software Klimatechnik Waermepumpen Kaelte 2026](https://handwerkerappvergleich.at/beste-software-klimatechnik-waermepumpen-kaelte-2026/)**
+- 🔧 **[handwerkerappvergleich.at · Beste Handwerkersoftware Soloselbststaendige 1 Person 2026](https://handwerkerappvergleich.at/beste-handwerkersoftware-soloselbststaendige-1-person-2026/)**
+- 🔧 **[handwerkerappvergleich.at · Beste Handwerkersoftware Maler Schreiner Ausbau Schluesseldienst 2026](https://handwerkerappvergleich.at/beste-handwerkersoftware-maler-schreiner-ausbau-schluesseldienst-2026/)**
+<!-- WAVE2-OFICIOS-2026-END -->
